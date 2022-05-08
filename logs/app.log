@@ -1,0 +1,15 @@
+2022-05-09 04:21:46,880 [main] INFO  framework.Utilities - Initializing the browser...
+2022-05-09 04:23:59,379 [main] INFO  framework.Utilities - File created!
+2022-05-09 04:24:13,765 [main] INFO  framework.Utilities - Rename
+2022-05-09 04:24:14,078 [main] INFO  framework.Utilities - Rename
+2022-05-09 04:24:14,352 [main] INFO  framework.Utilities - Move
+2022-05-09 04:24:14,735 [main] INFO  framework.Utilities - Move
+2022-05-09 04:24:14,995 [main] INFO  framework.Utilities - Copy
+2022-05-09 04:24:15,238 [main] INFO  framework.Utilities - Copy
+2022-05-09 04:24:15,525 [main] INFO  framework.Utilities - Show line numbers
+2022-05-09 04:24:15,829 [main] INFO  framework.Utilities - Show line numbers
+2022-05-09 04:24:16,092 [main] INFO  framework.Utilities - Move to Rubbish Bin
+2022-05-09 04:24:16,152 [main] INFO  framework.Utilities - Clicked
+2022-05-09 04:24:24,338 [main] INFO  framework.Utilities - Welcome to MEGA.pdf
+2022-05-09 04:24:29,687 [main] INFO  framework.Utilities - File found in bin
+2022-05-09 04:24:48,090 [main] INFO  framework.Utilities - Restored file found!
